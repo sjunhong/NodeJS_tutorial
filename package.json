@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/mayjunjuly0313/NodeJS_tutorial#readme",
   "dependencies": {
+    "cookie": "^0.4.1",
     "sanitize-html": "^2.1.2"
   }
 }
